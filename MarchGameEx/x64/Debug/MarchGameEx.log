@@ -1,0 +1,19 @@
+﻿  Character.cpp
+  Combat.cpp
+C:\Users\krohr\source\repos\MarchGameEx\MarchGameEx\Combat.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameData.cpp
+  GameEngine.cpp
+C:\Users\krohr\source\repos\MarchGameEx\MarchGameEx\Combat.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'GameEngine.cpp')
+  
+  MarchGameEx.cpp
+C:\Users\krohr\source\repos\MarchGameEx\MarchGameEx\Combat.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'MarchGameEx.cpp')
+  
+  Menu.cpp
+C:\Users\krohr\source\repos\MarchGameEx\MarchGameEx\Combat.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+  Monster.cpp
+  Generating Code...
+  MarchGameEx.vcxproj -> C:\Users\krohr\source\repos\MarchGameEx\x64\Debug\MarchGameEx.exe

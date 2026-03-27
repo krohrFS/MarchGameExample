@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MarchGameEx/MarchGameEx.vcxproj" Id="cec6031b-25ea-4326-afb0-cd1fed645152" />
+</Solution>
