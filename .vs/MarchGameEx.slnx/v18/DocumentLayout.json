@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\MarchGameEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|solutionrelative:MarchGameEx\\MarchGameEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|solutionrelative:MarchGameEx\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|solutionrelative:MarchGameEx\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\MarchGameEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CEC6031B-25EA-4326-AFB0-CD1FED645152}|MarchGameEx\\MarchGameEx.vcxproj|solutionrelative:MarchGameEx\\MarchGameEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Combat.cpp",
               "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\Combat.cpp",
               "RelativeDocumentMoniker": "MarchGameEx\\Combat.cpp",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Menu.cpp",
               "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\Menu.cpp",
               "RelativeDocumentMoniker": "MarchGameEx\\Menu.cpp",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameData.cpp",
               "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\GameData.cpp",
               "RelativeDocumentMoniker": "MarchGameEx\\GameData.cpp",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GameEngine.cpp",
               "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\GameEngine.cpp",
               "RelativeDocumentMoniker": "MarchGameEx\\GameEngine.cpp",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Monster.cpp",
               "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\Monster.cpp",
               "RelativeDocumentMoniker": "MarchGameEx\\Monster.cpp",
@@ -104,28 +104,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\Character.cpp",
               "RelativeDocumentMoniker": "MarchGameEx\\Character.cpp",
               "ToolTip": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\Character.cpp",
               "RelativeToolTip": "MarchGameEx\\Character.cpp",
-              "ViewState": "AgIAANUAAAAAAAAAAAAAAPIAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAANIAAAAAAAAAAAAAAPIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-20T19:42:00.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "MarchGameEx.cpp",
               "DocumentMoniker": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\MarchGameEx.cpp",
               "RelativeDocumentMoniker": "MarchGameEx\\MarchGameEx.cpp",
               "ToolTip": "C:\\Users\\krohr\\source\\repos\\MarchGameEx\\MarchGameEx\\MarchGameEx.cpp",
               "RelativeToolTip": "MarchGameEx\\MarchGameEx.cpp",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-14T20:04:34.722Z"
+              "WhenOpened": "2026-03-14T20:04:34.722Z",
+              "EditorCaption": ""
             }
           ]
         }
